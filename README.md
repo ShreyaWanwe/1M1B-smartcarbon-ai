@@ -1,9 +1,9 @@
-# 🌱 SmartCarbon AI — Intelligent Carbon Accounting System
+# 🌱 SmartCarbon AI - Intelligent Carbon Accounting System
 
 Transform weeks of manual carbon accounting into minutes of automated processing.
 
 ## Vision
-SmartCarbon AI automates emissions data capture, calculates carbon footprints using industry-grade emission factors/APIs, and produces AI-driven recommendations and compliance-ready reports — enabling organizations to move from fragmented spreadsheets to a trusted, auditable carbon accounting workflow.
+SmartCarbon AI automates emissions data capture, calculates carbon footprints using industry-grade emission factors/APIs, and produces AI-driven recommendations and compliance-ready reports, enabling organizations to move from fragmented spreadsheets to a trusted, auditable carbon accounting workflow.
 
 ## The Problem
 - 90% of companies struggle with accurate emissions data collection.
