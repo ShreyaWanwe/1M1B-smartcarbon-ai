@@ -26,7 +26,7 @@ AI-powered document processing integrated with industry carbon-calculation APIs 
   - AI-generated, prioritized recommendations for emission reduction and high-impact actions.
 - **Dashboards**
   - Interactive charts (Plotly) for category breakdown, timelines, and compliance readiness.
-
+ 
 ## Tech Stack
 - **Backend**: Python  
 - **Frontend**: Streamlit (+ HTML/CSS for styling)  
@@ -34,6 +34,15 @@ AI-powered document processing integrated with industry carbon-calculation APIs 
 - **Data Processing**: Pandas, NumPy, PyPDF2, pdf2image  
 - **Visualization**: Plotly Express  
 - **Image Processing**: Pillow (PIL)
+
+<img width="1919" height="1010" alt="Screenshot 2025-08-03 141619" src="https://github.com/user-attachments/assets/27e53729-aede-49a2-a743-eaedc7b61977" />
+<img width="1919" height="1025" alt="Screenshot 2025-08-03 141802" src="https://github.com/user-attachments/assets/aba85ba7-82db-4db2-afd7-32a694640f95" />
+<img width="1919" height="995" alt="Screenshot 2025-08-03 141838" src="https://github.com/user-attachments/assets/e5e66086-b40e-4426-a9ec-5f2bd94d7bfc" />
+<img width="1827" height="798" alt="Screenshot 2025-08-10 211225" src="https://github.com/user-attachments/assets/4295650b-d37b-4c99-b4b8-ca217385d862" />
+<img width="1918" height="772" alt="Screenshot 2025-08-10 211408" src="https://github.com/user-attachments/assets/acc66d38-fa33-4c86-bc57-852eb7619442" />
+
+
+
 
 
 ---
